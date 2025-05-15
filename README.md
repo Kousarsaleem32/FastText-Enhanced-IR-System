@@ -48,7 +48,7 @@ For Isolated results execute the script `BM25_isolated.py`, TFIDF_isolated.py
 - `queries.csv`: Dataset comprising user queries.
 - `ground_truth.csv`: Dataset with ground truth relevance judgments.
 
-##Results
+## Results
 After running the code, the console will display the calculated Mean Average Precision (MAP) score for the implemented retrieval system using the provided datasets and configurations.
 
 
